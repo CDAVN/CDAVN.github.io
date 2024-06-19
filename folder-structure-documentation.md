@@ -1,11 +1,10 @@
 ---
 description: >-
   This document provides an overview of the folder structure for the "The
-  Farther" directory. The directory contains two main sub-folders: "VNIT Cafe
-  Talks" and "VNIT Writing".
+  Farther" directory of Share Folder.
 ---
 
-# Folder Structure Documentation
+# Folder Structure Documentation [Current Google Drive]
 
 ## VNIT Cafe Talks
 
